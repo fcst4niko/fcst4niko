@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hello, I'm Fernando!
 
-<!--
-**fcst4niko/fcst4niko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a web developer experienced in **C#**, **MVC**, and **.NET**. I love learning about new technologies, sharing knowledge, and working on projects that solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🔭 I’m currently working on web applications using **ASP.NET Core** and **MVC**.  
+- 🌱 I’m learning more about **Microservices**, **Docker**, and **DevOps** to enhance my development workflow.  
+- ⚡ I enjoy mentoring and teaching; I often share C# tips and tricks with the community.  
+
+---
+
+## Technologies & Tools
+
+- **Languages**: C#, JavaScript, HTML5, CSS3  
+- **Frameworks**: ASP.NET Core, .NET Framework, Entity Framework, Angular/React (basic)  
+- **Databases**: SQL Server, MySQL  
+- **Tools**: Visual Studio, Visual Studio Code, Git, GitHub, Azure DevOps  
+
+---
+
+## Featured Projects
+
+1. **[ProjectName1](Project URL)**  
+   - Short description of the project.  
+   - Technologies used: C#, ASP.NET Core, SQL Server.  
+
+2. **[ProjectName2](Project URL)**  
+   - Short description of the project.  
+   - Technologies used: C#, MVC, Entity Framework.  
+
+3. *
