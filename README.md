@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m a web developer experienced in **C#**, **MVC
 - 🌱 I’m learning more about **Microservices**, **Docker**, and **DevOps** to enhance my development workflow.  
 - ⚡ I enjoy mentoring and teaching; I often share C# tips and tricks with the community.
 
-![Banner Image]([https://your-image-url.com/banner.jpg](https://www.canva.com/design/DAGdKqDYdL8/VsuxL23iEbZwAGUQLAcwBw/edit?utm_content=DAGdKqDYdL8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)) <!-- Replace this URL with your image link -->
+![Banner Image](https://github.com/fcst4niko/fcst4niko/blob/main/fcst4niko%20banner.png?raw=true) <!-- Replace this URL with your image link -->
 
 ---
 
